@@ -1,0 +1,8 @@
+# ninja log v5
+3	313	6887718508537152	CMakeFiles/project_test_hospital.dir/pages/mainMenu.cpp.obj	9280975b8860d68b
+4	571	6887728356897561	CMakeFiles/project_test_hospital.dir/main.cpp.obj	73eb3e5fb2492a84
+572	731	6887728357984743	project_test_hospital.exe	79ec956c22675547
+9	1916	6888190201254421	CMakeFiles/project_test_hospital.dir/main.cpp.obj	73eb3e5fb2492a84
+1918	2629	6888190207379687	project_test_hospital.exe	79ec956c22675547
+7	652	6888190381225576	CMakeFiles/project_test_hospital.dir/main.cpp.obj	73eb3e5fb2492a84
+653	1002	6888190383680103	project_test_hospital.exe	79ec956c22675547
