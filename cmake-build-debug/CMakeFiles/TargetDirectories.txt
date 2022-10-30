@@ -1,0 +1,3 @@
+F:/PROGRAMMING-TEST-LEARN-PROJECT/project c++/hospitalManagement/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/PROGRAMMING-TEST-LEARN-PROJECT/project c++/hospitalManagement/cmake-build-debug/CMakeFiles/hospitalManagement.dir
+F:/PROGRAMMING-TEST-LEARN-PROJECT/project c++/hospitalManagement/cmake-build-debug/CMakeFiles/rebuild_cache.dir
